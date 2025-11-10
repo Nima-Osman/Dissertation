@@ -56,7 +56,7 @@ This enables NHS analysts and policymakers to prioritise interventions with the 
 - Data cleaning notebook/ #
 - Final dataset merging notebook/ #
 - Creation of CoxPH model notebook/ #
-- [final merged dataset]("/Users/nimaosman/Development/Dissertation-1/final_merged_complete_with_ml_features (2).xlsx")
+- [final merged dataset]("final_merged_complete_with_ml_features (2).xlsx")
 
 
 ## 🗂 Data
