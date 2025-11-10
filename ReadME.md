@@ -50,9 +50,13 @@ This enables NHS analysts and policymakers to prioritise interventions with the 
 ## 📁 Repository Structure
 
 
--  README.md
+- README.md
 - completed dissertation pdf file/ #
-- notebooks with code/ #
+- EDA notebook/ #
+- Data cleaning notebook/ #
+- Final dataset merging notebook/ #
+- Creation of CoxPH model notebook/ #
+- [final merged dataset](/Users/nimaosman/Development/Dissertation-1/final_merged_complete_with_ml_features (2).xlsx)
 
 
 ## 🗂 Data
@@ -78,11 +82,4 @@ The codebase includes:
 - simulation utilities  
 - lightweight dashboard for hazard visualisation  
 
-Example structure:
-
-```python
-# data/prepare.py           -> loads & sanitises records
-# features/engineer.py      -> builds ADI, E/E ratio, etc.
-# models/coxph.py           -> trains trust-level + pooled CoxPH
-# notebooks/analysis.ipynb  -> diagnostics & proportionality checks
 
