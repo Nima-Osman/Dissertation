@@ -49,4 +49,40 @@ This enables NHS analysts and policymakers to prioritise interventions with the 
 
 ## 📁 Repository Structure
 
+repo/
+├─ README.md
+├─ completed dissertation pdf file/ #
+└─ notebooks with code/ #
+
+
+## 🗂 Data
+
+The dataset includes over **410k** operational observations from NHS trusts, covering:
+
+- cancer waiting time pathways  
+- elective and emergency admissions  
+- waiting list patterns  
+- trust-level operational indicators  
+
+Sensitive raw data is excluded, with instructions for authorised reconstruction provided in `/data`.
+
+---
+
+## 🛠 Implementation Notes
+
+The codebase includes:
+
+- ingestion scripts  
+- engineered feature builders  
+- model training modules  
+- simulation utilities  
+- lightweight dashboard for hazard visualisation  
+
+Example structure:
+
+```python
+# data/prepare.py           -> loads & sanitises records
+# features/engineer.py      -> builds ADI, E/E ratio, etc.
+# models/coxph.py           -> trains trust-level + pooled CoxPH
+# notebooks/analysis.ipynb  -> diagnostics & proportionality checks
 
