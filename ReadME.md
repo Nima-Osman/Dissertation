@@ -49,14 +49,12 @@ This enables NHS analysts and policymakers to prioritise interventions with the 
 
 ## 📁 Repository Structure
 
-
-- README.md
-- completed dissertation pdf file/ #
-- EDA notebook/ #
-- Data cleaning notebook/ #
-- Final dataset merging notebook/ #
-- Creation of CoxPH model notebook/ #
-- [final merged dataset]("final_merged_complete_with_ml_features (2).xlsx")
+<p><a href = "assets/Dissertation Final version.pdf"  download>Complete dissertation pdf file</a></p>
+<p><a href = "assets/1. EDA.ipynb"  download>EDA notebook</a></p>
+<p><a href = "assets/2. data cleaning hospital activity.ipynb"  download>Data cleaning notebook</a></p>
+<p><a href = "assets/3. final dataset merging.ipynb"  download>Final dataset merging notebook</a></p>
+<p><a href = "assets/final_merged_complete_with_ml_features (2).xlsx"  download>final dataset created</a></p>
+<p><a href = "assets/4. Final dataset processing.ipynb"  download>CoxPH model creation notebook</a></p>
 
 
 ## 🗂 Data
