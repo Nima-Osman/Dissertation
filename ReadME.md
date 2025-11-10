@@ -49,10 +49,10 @@ This enables NHS analysts and policymakers to prioritise interventions with the 
 
 ## 📁 Repository Structure
 
-repo/
-├─ README.md
-├─ completed dissertation pdf file/ #
-└─ notebooks with code/ #
+
+-  README.md
+- completed dissertation pdf file/ #
+- notebooks with code/ #
 
 
 ## 🗂 Data
