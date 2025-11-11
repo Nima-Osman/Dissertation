@@ -74,10 +74,11 @@ Sensitive raw data is excluded, with instructions for authorised reconstruction 
 
 The codebase includes:
 
-- ingestion scripts  
+- ingestion scripts
+- EDA
+- Merging of the datasets  
 - engineered feature builders  
 - model training modules  
 - simulation utilities  
-- lightweight dashboard for hazard visualisation  
 
 
